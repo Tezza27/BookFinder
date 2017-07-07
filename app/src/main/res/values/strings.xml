@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookFinder</string>
+    <!-- Search Function hint text [CHAR LIMIT=NONE] -->
+    <string name="search_hint">Enter Key Word(s) To Search</string>
+    <!-- Text to display in the list when there are no books [CHAR LIMIT=NONE] -->
+    <string name="no_books">Sorry, no books containing your search words were found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+</resources>
